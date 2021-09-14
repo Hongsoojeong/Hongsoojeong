@@ -3,7 +3,7 @@
 **Hongsoojeong/Hongsoojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 기술 보유 스택 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
