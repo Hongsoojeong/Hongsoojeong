@@ -8,6 +8,14 @@
 
 <div align="center">
 <h4><b>🤍About Me🤍</b></h4>
+
+<a href="https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731">
+    <img 
+        src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/> &nbsp
+
+    
+    
 <a href="https://source-coding.tistory.com/">
     <img 
         src="https://img.shields.io/static/v1?label=blog&message=TISTORY&color=9cf&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"/></a> &nbsp
