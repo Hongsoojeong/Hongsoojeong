@@ -9,7 +9,10 @@
 
 <div align="center">
 <h4><b>🤍About Me🤍</b></h4>
-
+    
+<br>
+<br>
+<br>
 <a href="https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731">
     <img 
         src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"
@@ -21,6 +24,9 @@
     <img 
         src="https://img.shields.io/static/v1?label=blog&message=TISTORY&color=9cf&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"/></a> &nbsp
 
+<br>
+<br>
+    
 <div align="center">
 <h4><b>✍ I’m currently learning ✍</b></h4>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -32,6 +38,8 @@
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=white"/></a> &nbsp 
 </div>
 
+<br>
+<br>
 
 <h4>What I'm interested in these days is security, android and Backend.</h4>
 
