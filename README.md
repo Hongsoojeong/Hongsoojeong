@@ -6,13 +6,13 @@
 
     
     
-
+<br>
+<br>
+<br>
 <div align="center">
 <h4><b>🤍About Me🤍</b></h4>
     
-<br>
-<br>
-<br>
+
 <a href="https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731">
     <img 
         src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"
