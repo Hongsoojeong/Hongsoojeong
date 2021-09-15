@@ -5,7 +5,6 @@
 <h5>I haven't chosen my specific major field yet, so I'm trying to study while encountering many fields until I choose my field!</h5>
 
 <h4 align="center"><b>✍ I’m currently learning ✍</b></h4>
-</br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
