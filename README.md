@@ -1,9 +1,8 @@
 
 
-**Hongsoojeong/Hongsoojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-👋Hello! I'm majored in **💻 Division of Computer Engineering 💻**
-I haven't chosen my specific major field yet, so I'm trying to study while encountering many fields until I choose my field
+<h5>👋Hello! I'm majored in **💻 Division of Computer Engineering 💻**
+I haven't chosen my specific major field yet, so I'm trying to study while encountering many fields until I choose my field</h5>
 
 <h3 align="center"><b>✍ I’m currently learning ✍</b></h3>
 </br>
