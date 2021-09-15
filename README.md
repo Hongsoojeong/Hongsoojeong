@@ -4,6 +4,8 @@
 <h5>👋Hello! I'm majored in 💻 Division of Computer Engineering 💻</h5>
 <h5>I haven't chosen my specific major field yet, so I'm trying to study while encountering many fields until I choose my field!</h5>
 
+<hr>
+
 <div align="center">
 <h4><b>✍ I’m currently learning ✍</b></h4>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
