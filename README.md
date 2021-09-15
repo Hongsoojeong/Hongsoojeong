@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/C++-01A9DB?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=white"/></a> &nbsp 
+<a href="https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731">
+    <img 
+        src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
 
