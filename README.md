@@ -10,7 +10,7 @@
 <h4><b>🤍About Me🤍</b></h4>
 <a href="https://source-coding.tistory.com/">
     <img 
-        src="https://img.shields.io/static/v1?label=TISTORY&message=TISTORY&color=9cf&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"/></a> &nbsp
+        src="https://img.shields.io/static/v1?&message=TISTORY&color=9cf&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"/></a> &nbsp
 
 <div align="center">
 <h4><b>✍ I’m currently learning ✍</b></h4>
