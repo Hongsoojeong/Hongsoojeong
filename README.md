@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F2E0F7&height=300&section=header%20render&fontSize=90)
 
 <h4>👋Hello! I'm majored in Division of Computer Engineering💻
 <h4>I haven't chosen my specific major field yet,</h4>
