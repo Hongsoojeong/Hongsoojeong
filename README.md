@@ -1,7 +1,4 @@
-
-
-
-<pre> <h5>👋Hello! I'm majored in 💻 Division of Computer Engineering 💻</h5>
+<pre> <h5>👋Hello! I'm majored in 💻 Division of Computer Engineering 💻
 I haven't chosen my specific major field yet, 
 so I'm trying to study while encountering many fields until I choose my field!</h5></pre>
 
