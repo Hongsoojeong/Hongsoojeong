@@ -13,10 +13,6 @@
         src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://source-coding.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <a href="https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731">
-    <img 
-        src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/static/v1?label=TISTORY&message=TISTORY&color=9cf"/>
 
 <div align="center">
 <h4><b>✍ I’m currently learning ✍</b></h4>
