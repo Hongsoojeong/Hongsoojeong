@@ -1,13 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F2E0F7&height=200&section=header%20render&fontSize=90)
-
 <div align="center">
 <h4>👋Hello! I'm majored in Division of Computer Engineering💻
 <h4>I haven't chosen my specific major field yet,</h4>
 <h4>So I'm trying to study while encountering many fields until I choose my field!🚀</h4>
 </div>
     
-    
-<br>
 <br>
 <br>
 <div align="center">
