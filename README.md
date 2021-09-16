@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F2E0F7&height=300&section=header%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F2E0F7&height=200&section=header%20render&fontSize=90)
 
 <div align="center">
 <h4>👋Hello! I'm majored in Division of Computer Engineering💻
