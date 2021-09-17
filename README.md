@@ -5,8 +5,9 @@
 <h4>So I'm trying to study while encountering many fields until I choose my field!🚀</h4>
 </div>
     
-<iframe src="https://giphy.com/embed/fZk0FD0wxQpb2" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/homer-simpson-fat-mumu-fZk0FD0wxQpb2">via GIPHY</a></p>
-<br>
+
+<br>![giphy](https://user-images.githubusercontent.com/71815881/133824172-fbded0d4-eb9b-41a0-aab3-87bd4d255fcb.gif)
+
 <br>
 <div align="center">
 <h4><b>🤍About Me🤍</b></h4>
