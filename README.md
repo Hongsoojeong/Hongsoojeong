@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F2E0F7&height=200&section=header%20render&fontSize=90)
 <div align="center">
-<br>![giphy](https://user-images.githubusercontent.com/71815881/133824172-fbded0d4-eb9b-41a0-aab3-87bd4d255fcb.gif)
+
+![giphy](https://user-images.githubusercontent.com/71815881/133824252-58b516f0-72bd-4352-915d-ada6bdf96093.gif)
+    
 <h4>👋Hello! I'm majored in Division of Computer Engineering💻
 <h4>I haven't chosen my specific major field yet,</h4>
 <h4>So I'm trying to study while encountering many fields until I choose my field!🚀</h4>
