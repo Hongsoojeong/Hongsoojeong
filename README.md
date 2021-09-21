@@ -34,13 +34,13 @@
 <h4><b>✍ I’m currently learning ✍</b></h4>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Django-0B6138?style=flat&logo=Django&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-FFBF00?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/C++-01A9DB?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/-Django-0B6138?style=flat&logo=Django&logoColor=white"/></a> &nbsp 
 </div>
 
 <br>
