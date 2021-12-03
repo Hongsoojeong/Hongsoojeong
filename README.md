@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F2E0F7&height=200&section=header%20render&fontSize=90)
 <div align="center">
 
-![giphy](https://user-images.githubusercontent.com/71815881/133824252-58b516f0-72bd-4352-915d-ada6bdf96093.gif)
+<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
     
 <h4>👋Hello! I'm majored in Division of Computer Engineering💻
 <h4>I haven't chosen my specific major field yet,</h4>
