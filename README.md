@@ -13,7 +13,7 @@
 
 
 <br>
-<div align="center">
+<div align="left">
 <h4><b>🤍About Me🤍</b></h4>
     
 
