@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'dalmoori';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2102-01@1.0/dalmoori.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F2E0F7&height=200&section=header%20render&fontSize=90)
 <div align="center">
 
