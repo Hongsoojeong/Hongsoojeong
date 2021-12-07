@@ -27,7 +27,7 @@
 <br>
 <br>
 <div align="left">
-<h4><b>✍ I’m currently learning ✍</b></h4>
+<h3><b>💪Learning Skills</b></h3>
 <hr>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
