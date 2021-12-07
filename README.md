@@ -10,8 +10,9 @@ So I'm trying to study while encountering many fields until I choose my field!�
 <br>
 <div align="left">
 <h1><b>🤍About Me🤍</b></h1>
-    
-<img src="https://img.shields.io/static/v1?label=<DreamHack>&message=<프로필>&color=<ff69b4>"/>&nbsp
+   
+    < a href="https://dreamhack.io/users/14543/">
+        <img src="https://img.shields.io/static/v1?label=<DreamHack>&message=<프로필>&color=<ff69b4>"/></a>
           
     <a href="https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731">
     <img 
