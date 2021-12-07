@@ -6,7 +6,7 @@ So I'm trying to study while encountering many fields until I choose my field!�
 </div>
     
 
-  <a href="https://dreamhack.io/users/14543/"><img src="http://img.shields.io/badge/ChupaChups>드림핵</img></a>
+  <a href="https://dreamhack.io/users/14543/"><img src="http://img.shields.io/badge/ChupaChups>드림핵</a>
 <br>
 <div align="left">
 <h1><b>🤍About Me🤍</b></h1>
