@@ -1,8 +1,8 @@
 
 <div align="left">
-<h4>I'm majored in Division of Computer Engineering
-<h4>I haven't chosen my specific major field yet,</h4>
-<h4>So I'm trying to study while encountering many fields until I choose my field!🚀</h4>
+I'm majored in Division of Computer Engineering<br>
+I haven't chosen my specific major field yet,<br>
+So I'm trying to study while encountering many fields until I choose my field!🚀<br>
 </div>
     
 
