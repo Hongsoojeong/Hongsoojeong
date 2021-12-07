@@ -7,20 +7,20 @@ So I'm trying to study while encountering many fields until I choose my field!�
     
 
 
-<img 
-        src="http://www.w3.org/2000/svg"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/> &nbsp
-
 <br>
 <div align="left">
 <h1><b>🤍About Me🤍</b></h1>
+    
+<img src="https://img.shields.io/badge/
+          DremHack-#CF103E
+          &logo=chupachups
+          &logoColor=#CF103E"/> 
     
 <a href="https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731">
     <img 
         src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/> &nbsp
 
-    
     
 <a href="https://source-coding.tistory.com/">
     <img 
