@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F2E0F7&height=200&section=header%20render&fontSize=90)
-<div align="center">
+<div align="left">
 
 <image src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></image>
     
