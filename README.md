@@ -26,7 +26,6 @@ So I'm trying to study while encountering many fields until I choose my field!ğŸ
 <br>
 <div align="left">
 <h1><b>ğŸ’ªLearning Skills</b></h1>
-<hr>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Django-0B6138?style=flat&logo=Django&logoColor=white"/></a> &nbsp 
