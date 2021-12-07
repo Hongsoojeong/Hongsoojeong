@@ -11,11 +11,7 @@ So I'm trying to study while encountering many fields until I choose my field!�
 <div align="left">
 <h1><b>🤍About Me🤍</b></h1>
     
-<img src="https://img.shields.io/badge/
-          DremHack-#CF103E
-          &logo=Chupa Chups
-          &logoColor=#CF103E"/> 
-    
+<img src="https://img.shields.io/badge/ChupaChups-#CF103E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <a href="https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731">
     <img 
         src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"
