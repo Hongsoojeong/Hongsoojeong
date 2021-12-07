@@ -13,7 +13,7 @@ So I'm trying to study while encountering many fields until I choose my field!ðŸ
     
 <img src="https://img.shields.io/badge/
           DremHack-#CF103E
-          &logo=chupachups
+          &logo=Chupa Chups
           &logoColor=#CF103E"/> 
     
 <a href="https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731">
