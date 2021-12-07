@@ -6,7 +6,11 @@ So I'm trying to study while encountering many fields until I choose my field!�
 </div>
     
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"></svg>
+
+<img 
+        src="http://www.w3.org/2000/svg"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/> &nbsp
+
 <br>
 <div align="left">
 <h1><b>🤍About Me🤍</b></h1>
