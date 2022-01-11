@@ -25,6 +25,10 @@ So I'm trying to study while encountering many fields until I choose my field!ðŸ
 <a href="https://source-coding.tistory.com/">
     <img 
         src="https://img.shields.io/static/v1?label=blog&message=TISTORY&color=9cf&link=https://source-coding.tistory.com/"/></a> &nbsp
+
+<a href="https://velog.io/@my_youth99/series">
+    <img 
+        src="https://img.shields.io/static/v1?label=blog&message=velog&color=9cf&link=https://velog.io/@my_youth99/series"/></a> &nbsp
     
 <br>
   
