@@ -9,7 +9,7 @@ So I'm trying to study while encountering many fields until I choose my field!ðŸ
 
 <br>
 <div align="left">
-<h1>About Me</b></h1>
+<h2>About Me</b></h2>
    
     
     
