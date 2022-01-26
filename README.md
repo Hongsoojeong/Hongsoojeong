@@ -2,7 +2,7 @@
 <div align="left">
 I'm majored in Division of Computer Engineering<br>
 I haven't chosen my specific major field yet,<br>
-So I'm trying to study while encountering many fields until I choose my field!🚀<br>
+So I'm trying to study while encountering many fields until I choose my field<br>
 </div>
     
 
