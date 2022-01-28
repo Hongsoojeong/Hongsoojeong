@@ -1,10 +1,4 @@
 
-<div align="left">
-I'm majored in Division of Computer Engineering<br>
-</div>
-    
-
-
 <br>
 <div align="left">
 <h2>About Me</b></h2>
