@@ -1,8 +1,6 @@
 
 <br>
 <div align="left">
-<h2>About Me</b></h2>
-   
     
     
 <a href="https://dreamhack.io/users/14543/">
