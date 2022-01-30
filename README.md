@@ -36,9 +36,6 @@
 <br>
 <br>
 
-What I'm interested in these days is security, android and Backend.
-<br>
-
 
 ![Hongsoojeong's github stats](https://github-readme-stats.vercel.app/api?username=Hongsoojeong&show_icons=true)
 [![Hongsoojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongsoojeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hongsoojeong)
