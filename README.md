@@ -1,7 +1,7 @@
 
 <br>
 <div align="left">
-Currently, I usually post in velog  platform :)<br>
+Currently, I usually post in velog  platform :)<br><br><br>
  
 <a href="https://dreamhack.io/users/14543/">
     <img 
