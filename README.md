@@ -9,17 +9,16 @@ I'm majoring in Division of Computer Engineering. Currently, I usually post in v
 <strong>🐹Krystal</strong><br>
 <a href="https://dreamhack.io/users/14543/">
     <img 
-        src="https://img.shields.io/static/v1?label=Profile&message=Dreamhack&color=9cf&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"/></a> &nbsp     
+        src="https://img.shields.io/static/v1?label=Profile&message=Dreamhack&color=9cf&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"/></a>     
 <a href="https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731">
     <img 
-        src="https://img.shields.io/static/v1?label=blog&message=Notion&color=9cf&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"/></a> &nbsp    
+        src="https://img.shields.io/static/v1?label=blog&message=Notion&color=9cf&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"/></a>     
 <a href="https://source-coding.tistory.com/">
     <img 
-        src="https://img.shields.io/static/v1?label=blog&message=TISTORY&color=9cf&link=https://source-coding.tistory.com/"/></a> &nbsp
+        src="https://img.shields.io/static/v1?label=blog&message=TISTORY&color=9cf&link=https://source-coding.tistory.com/"/></a>
 <a href="https://velog.io/@my_youth99/series">
     <img 
-        src="https://img.shields.io/static/v1?label=blog&message=velog&color=9cf&link=https://velog.io/@my_youth99/series"/></a> &nbsp
-
+        src="https://img.shields.io/static/v1?label=blog&message=velog&color=9cf&link=https://velog.io/@my_youth99/series"/></a> 
 <br>
 
 <div align="left">
