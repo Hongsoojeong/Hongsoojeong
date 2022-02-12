@@ -38,7 +38,7 @@ I'm majoring in Division of Computer Engineering. Currently, I usually post in v
 
 
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFB2FE&title_bg=%23FF3ABA&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Hongsoojeong's github stats](https://github-readme-stats.vercel.app/api?username=Hongsoojeong&show_icons=true&theme=jolly) [![Hongsoojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongsoojeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=jolly)](https://github.com/Hongsoojeong) 
 
