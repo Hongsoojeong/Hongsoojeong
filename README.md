@@ -6,7 +6,7 @@
 
     
 I'm majoring in Division of Computer Engineering. Currently, I usually post in velog  platform :)<br><br>
-    <strong><span style="color:#ba53d9">🐹Krystal</strong></span><br><mark style='background-color: #ffdce0'> 연한 빨강 </mark>
+    <strong><span style="color:#ba53d9">🐹Krystal</strong></span><br>
 
 <a href="https://dreamhack.io/users/14543/">
     <img 
