@@ -37,5 +37,5 @@ Currently, I usually post in velog  platform :)<br><br><br>
 <br>
 
 
-![Hongsoojeong's github stats](https://github-readme-stats.vercel.app/api?username=Hongsoojeong&show_icons=true&theme=swift)
-[![Hongsoojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongsoojeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hongsoojeong)
+![Hongsoojeong's github stats](https://github-readme-stats.vercel.app/api?username=Hongsoojeong&show_icons=true&theme=jolly) <br>
+[![Hongsoojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongsoojeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=jolly)](https://github.com/Hongsoojeong)
