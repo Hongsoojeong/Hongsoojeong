@@ -1,8 +1,8 @@
 
 <br>
 <div align="left">
-최근엔 velog를 중심으로 포스팅하고 있습니다.
-    
+Currently, I usually post in velog  platform :)<br>
+ 
 <a href="https://dreamhack.io/users/14543/">
     <img 
         src="https://img.shields.io/static/v1?label=Profile&message=Dreamhack&color=9cf&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"/></a> &nbsp
