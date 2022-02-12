@@ -2,7 +2,7 @@
 <br><br>
 <div align="left">
     
-<img src="https://giphy.com/gifs/windows-loadingscreen-retrowindows-QB9rH7NbUQfbN7wrf3"/>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/QB9rH7NbUQfbN7wrf3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/windows-loadingscreen-retrowindows-QB9rH7NbUQfbN7wrf3"></a></p>
     
 I'm majoring in Division of Computer Engineering. Currently, I usually post in velog  platform :)<br><br>
 <strong>🐹Krystal</strong><br>
