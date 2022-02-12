@@ -20,7 +20,7 @@ I'm majoring in Division of Computer Engineering. Currently, I usually post in v
 <a href="https://velog.io/@my_youth99/series">
     <img 
         src="https://img.shields.io/static/v1?label=blog&message=velog&color=9cf&link=https://velog.io/@my_youth99/series"/></a> 
-<br>
+<br><br>
 
 <div align="left">
 <b>🔨 Tech </b><br>
