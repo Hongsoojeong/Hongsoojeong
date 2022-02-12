@@ -6,7 +6,7 @@
 
     
 I'm majoring in Division of Computer Engineering. Currently, I usually post in velog  platform :)<br><br>
-<strong>🐹Krystal</strong><br>
+    <strong><span style="color:#ba53d9">🐹Krystal</strong></span><br>
 <a href="https://dreamhack.io/users/14543/">
     <img 
         src="https://img.shields.io/static/v1?label=Profile&message=Dreamhack&color=9cf&link=https://www.notion.so/Records-about-me-9ee833cf6d9346fdbfa9ca9b7fca1731"/></a>     
