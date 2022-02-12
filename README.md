@@ -1,7 +1,7 @@
 
 <br>
 <div align="left">
-    
+최근엔 velog를 중심으로 포스팅하고 있습니다.
     
 <a href="https://dreamhack.io/users/14543/">
     <img 
@@ -19,7 +19,7 @@
 <a href="https://velog.io/@my_youth99/series">
     <img 
         src="https://img.shields.io/static/v1?label=blog&message=velog&color=9cf&link=https://velog.io/@my_youth99/series"/></a> &nbsp
-    
+  
 <br>
   
 <br>
