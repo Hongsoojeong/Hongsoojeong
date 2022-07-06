@@ -1,7 +1,6 @@
 
-<br><br>
 <div align="left">
-<strong>🐹 Krystal</strong></span><br>
+<strong> 🐹 Krystal</strong></span><br>
     
 <a href="https://www.notion.so/redkrystal/781f0fc159a04468a645d9da46cdb67c">
     <img 
@@ -15,7 +14,7 @@
 <br><br>
 
 <div align="left">
-<b>🔨 Tech </b><br>
+<b> 🔨 Tech </b><br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
