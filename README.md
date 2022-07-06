@@ -1,8 +1,8 @@
 
 <br><br>
 <div align="left">
-
-![giphy (1)](https://user-images.githubusercontent.com/71815881/156322823-9213d1a0-6741-40f0-8e27-43cbf87e8602.gif)
+    
+![giphy (3)](https://user-images.githubusercontent.com/71815881/177594115-0f4efb21-f660-4f6a-8ba9-8f983222c1de.gif)
 
     
 I'm majoring in Division of Computer Engineering. Currently, I usually post in velog  platform :)<br><br>
