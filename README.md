@@ -1,7 +1,7 @@
 
 <br><br>
 <div align="left">
-🐹Krystal</strong></span><br>
+<strong>🐹 Krystal</strong></span><br>
     
 <a href="https://www.notion.so/redkrystal/781f0fc159a04468a645d9da46cdb67c">
     <img 
