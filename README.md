@@ -3,9 +3,6 @@
 <div align="left">
     
 ![giphy (3)](https://user-images.githubusercontent.com/71815881/177594115-0f4efb21-f660-4f6a-8ba9-8f983222c1de.gif)
-
-    
-I'm majoring in Division of Computer Engineering. Currently, I usually post in velog  platform :)<br><br>
     <strong><span style="color:#ba53d9">🐹Krystal</strong></span><br>
     
 <a href="https://www.notion.so/redkrystal/781f0fc159a04468a645d9da46cdb67c">
