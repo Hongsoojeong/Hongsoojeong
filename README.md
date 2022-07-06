@@ -27,13 +27,9 @@
 <img src="https://img.shields.io/badge/C++-01A9DB?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=white"/></a> &nbsp 
 </div>
-
-<hr>
-
-
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFB2FE&title_bg=%23FF3ABA&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 
 ![Hongsoojeong's github stats](https://github-readme-stats.vercel.app/api?username=Hongsoojeong&show_icons=true&theme=jolly) [![Hongsoojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongsoojeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=jolly)](https://github.com/Hongsoojeong) 
+<br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFB2FE&title_bg=%23FF3ABA&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
