@@ -2,7 +2,7 @@
 <div align="left">
 <strong> 🐹 Krystal</strong></span><br>
 <br>
-2020 HUFS Division of Computer Engineering. <br>
+2020~ HUFS Division of Computer Engineering. <br>
 2021~2022 GDSC HUFS 3rd CoreMember<br>
 2022 UMC HUSF 3rd Leader<br><br>
     
