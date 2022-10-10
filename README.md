@@ -1,6 +1,8 @@
 
 <div align="left">
 <strong> 🐹 Krystal</strong></span><br>
+GDSC HUFS 3rd CoreMember<br>
+UMC HUSF 3rd Leader<br>
     
 <a href="https://www.notion.so/redkrystal/781f0fc159a04468a645d9da46cdb67c">
     <img 
