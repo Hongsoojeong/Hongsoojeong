@@ -4,7 +4,7 @@
 <br>
 2020 HUFS Division of Computer Engineering. <br>
 2021~2022 GDSC HUFS 3rd CoreMember<br>
-2022 UMC HUSF 3rd Leader<br>
+2022 UMC HUSF 3rd Leader<br><br>
     
 <a href="https://www.notion.so/redkrystal/781f0fc159a04468a645d9da46cdb67c">
     <img 
