@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/C++-01A9DB?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Swift-FF0000?style=flat&logo=Swift&logoColor=white"/></a> &nbsp
 </div>
 <br>
 
