@@ -19,6 +19,7 @@
 
 <div align="left">
 <b> 🔨 Tech </b><br>
+<img src="https://img.shields.io/badge/-Swift-FF0000?style=flat&logo=Swift&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
@@ -26,7 +27,6 @@
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/C++-01A9DB?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/-Swift-FF0000?style=flat&logo=Swift&logoColor=white"/></a> &nbsp
 </div>
 <br>
 
