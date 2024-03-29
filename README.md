@@ -21,7 +21,7 @@
 
 <div align="left">
 <b> 🔨 Tech </b><br>
-<img src ="https://img.shields.io/badge/atlassian.svg?&style=for-the-badge&logo=atlassian&logoColor=white"/>
+<img src ="https://img.shields.io/badge/atlassian-0052CC&style=for-the-badge&logo=atlassian&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Swift-FF0000?style=flat&logo=Swift&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
