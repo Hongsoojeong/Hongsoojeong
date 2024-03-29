@@ -5,7 +5,7 @@
 2020~2024 HUFS Division of Computer Engineering. <br>
 2021~2022 GDSC HUFS 3rd CoreMember<br>
 2022 UMC HUSF 3rd Leader<br>
-2023 KISIA 시큐리티아카데미 안랩 트랙<br>
+2023 KISIA Security Academy Anlab track<br>
 
     
 <a href="https://www.notion.so/redkrystal/781f0fc159a04468a645d9da46cdb67c">
