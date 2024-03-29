@@ -2,7 +2,7 @@
 <div align="left">
 <strong> 🐹 Krystal</strong></span><br>
 <br>
-2020~ HUFS Division of Computer Engineering. <br>
+2020~2024 HUFS Division of Computer Engineering. <br>
 2021~2022 GDSC HUFS 3rd CoreMember<br>
 2022 UMC HUSF 3rd Leader<br>
 2023 KISIA 시큐리티아카데미 안랩 트랙<br>
