@@ -1,6 +1,6 @@
 .・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・ <br>
 <div align="left">
-<strong> 🐹 Krystal</strong></span><br>
+<strong> 🐹 Krystal (Soojeong Hong)</strong></span><br>
 <br>
 2020~2024 HUFS Division of Computer Engineering. <br>
 2021~2022 GDSC HUFS 3rd CoreMember<br>
